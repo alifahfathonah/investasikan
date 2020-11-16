@@ -1,0 +1,12 @@
+.jumbotron {
+	
+	height: 300px
+}
+
+#jumbotron-putih {
+	background-color: #ffff;
+}
+
+.right {
+	float: right;
+}
